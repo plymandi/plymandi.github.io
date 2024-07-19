@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://plymandi.github.io/sitemap
+Sitemap: https://plymandi.github.io/app/sitemap
+Sitemap: https://plymandi.github.io/assets/sitemap
+Sitemap: https://plymandi.github.io/css/sitemap
+Sitemap: https://plymandi.github.io/includes/sitemap
+Sitemap: https://plymandi.github.io/item/sitemap
+Sitemap: https://plymandi.github.io/src/sitemap
